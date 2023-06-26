@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Layout example</string>
+    <string name="hi_shogun6578">Hi, Shogun6578!</string>
+    <string name="houses">Houses</string>
+    <string name="search">Search</string>
+    <string name="hiroshima_castle" translatable="false">hiroshima_castle</string>
+    <string name="buy">Buy</string>
+    <string name="rent">Rent</string>
+    <string name="castles">Castles</string>
+    <string name="apartments">Apartments</string>
+    <string name="light">Light</string>
+    <string name="welcome_shogun6578_to_our_real_estate_portal">Welcome Shogun6578 to our real estate portal</string>
+    <string name="night">Night</string>
+</resources>

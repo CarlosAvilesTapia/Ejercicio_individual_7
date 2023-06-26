@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hi_shogun6578">¡Hola, Shogun6578!</string>
+    <string name="houses">Casas</string>
+    <string name="search">Buscar</string>
+    <string name="buy">Comprar</string>
+    <string name="rent">Arrendar</string>
+    <string name="castles">Castillos</string>
+    <string name="apartments">Departamentos</string>
+    <string name="light">Claro</string>
+    <string name="welcome_shogun6578_to_our_real_estate_portal">Bienvenido Shogun6578 a nuestro portal inmobiliario</string>
+    <string name="night">Oscuro</string>
+</resources>

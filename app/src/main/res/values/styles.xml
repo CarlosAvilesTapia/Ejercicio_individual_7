@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Creación de estilo para botones de filtro -->
+    <style name="Blue_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#2A6F97</item>
+        <item name="android:textColor">#E3F2FD</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Creación de estilo para botones importantes -->
+    <style name="Transaction_button">
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">68dp</item>
+        <item name="android:backgroundTint">#0C22EC</item>
+        <item name="android:textColor">#E3F2FD</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
